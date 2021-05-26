@@ -14,4 +14,10 @@ Initial data property in frontend
       totalPages : 1, // total pages is total pagination number we will be having...
       pages : [],
       
+      
+      
+      intial-credit 
+      Code With Stein
+      https://www.youtube.com/watch?v=Cd2e8_3aIto
+      
      
